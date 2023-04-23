@@ -1,0 +1,12 @@
+{
+  "Sweets":
+  [
+    {"SweetName":"Cookies","SweetCalories":"142(28.4g)","SweetPrice":"$2.50-5.00","SweetImage":"URL From github","SweetLocation":"https://www.google.com/maps/search/cookies+near+me/@38.6548887,-77.306003,13z/data=!3m1!4b1","SweetYoutube":"https://youtu.be/vU2uuVDADNE","SweetIcon":"URL github"},
+    {"SweetName":"Cupcake","SweetCalories":"Low fat 131 (43 g)","SweetPrice":"$2.95-3.00","SweetImage":"URL From github","SweetLocation":"https://www.google.com/maps/search/cupcake+near+me/@38.6548743,-77.3061747,13z/data=!3m1!4b1","SweetYoutube":"https://youtu.be/xrFZd54VFNE","SweetIcon":"URL github"},
+    {"SweetName":"Baklava","SweetCalories":"306 (76g)","SweetPrice":"$1-2.50 per piece","SweetImage":"URL From github","SweetLocation":"https://www.google.com/maps/search/baklava+near+me/@38.6548598,-77.3063464,13z/data=!3m1!4b1","SweetYoutube":"https://youtu.be/8IIjVmMf5Nw","SweetIcon":"URL github"},
+    {"SweetName":"Tea","SweetCalories":"$$","SweetPrice":"$$","SweetImage":"URL From github","SweetLocation":"$$","SweetYoutube":"$$","SweetIcon":"URL github"},
+    {"SweetName":"$$","SweetCalories":"2 ( 237 g - no sugar)","SweetPrice":"$2.50-2.96","SweetImage":"URL From github","SweetLocation":"https://www.google.com/maps/search/tea+near+me/@38.6548454,-77.3065182,13z/data=!3m1!4b1","SweetYoutube":"https://youtu.be/fU7gUSuhIPA","SweetIcon":"URL github"},
+    
+  ],
+  "Status":"OK"
+}

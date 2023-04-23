@@ -1,11 +1,11 @@
 {
   "Food":
   [
-    {"FoodName":"Spaghetti","FoodCalories":"221 per cup (140g)","FoodPrice":"$7-15 plate","FoodImage":"URL From github","FoodLocation":"https://www.google.com/maps/search/spaghetti+near+me","FoodYoutube":"https://youtu.be/KLdZ8FyZ8Ho","FoodIcon":"URL github"},
-    {"FoodName":"Pizza","FoodCalories":"285 per slice (14’’)","FoodPrice":"$2-25 slice","FoodImage":"URL From github","FoodLocation":"https://www.google.com/maps/search/pizza+near+me","FoodYoutube":"https://youtu.be/mHipexNOAq4","FoodIcon":"URL github"},
-    {"FoodName":"Shawarma","FoodCalories":"240 (100g)","FoodPrice":"$5.99-8.49 per sandwich","FoodImage":"URL From github","FoodLocation":"https://www.google.com/maps/search/shawaram+near+me","FoodYoutube":"https://youtu.be/UJi0fS1SxHg","FoodIcon":"URL github"},
-    {"FoodName":"Fried Chicken","FoodCalories":"320 (130g) no bone","FoodPrice":"$2-3.05 tender","FoodImage":"URL From github","FoodLocation":"https://www.google.com/maps/search/fried+chicken+near+me","FoodYoutube":"https://youtu.be/pSPWszeTxRc","FoodIcon":"URL github"},
-    {"FoodName":"Cheeseburger","FoodCalories":"303 (100g)","FoodPrice":"$2.65-2.58","FoodImage":"URL From github","FoodLocation":"https://www.google.com/maps/search/cheeseburger+near+me","FoodYoutube":"https://youtu.be/L66PzgUzIl0","FoodIcon":"URL github"},
+    {"FoodName":"Spaghetti","FoodCalories":"221 per cup (140g)","FoodPrice":"$7-15 plate","FoodImage":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Food/ramen.jpg","FoodLocation":"https://www.google.com/maps/search/spaghetti+near+me","FoodYoutube":"https://youtu.be/KLdZ8FyZ8Ho","FoodIcon":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Food/ramen.png"},
+    {"FoodName":"Pizza","FoodCalories":"285 per slice (14’’)","FoodPrice":"$2-25 slice","FoodImage":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Food/pizza.jpg","FoodLocation":"https://www.google.com/maps/search/pizza+near+me","FoodYoutube":"https://youtu.be/mHipexNOAq4","FoodIcon":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Food/pizza.png"},
+    {"FoodName":"Shawarma","FoodCalories":"240 (100g)","FoodPrice":"$5.99-8.49 per sandwich","FoodImage":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Food/shawarma.jpg","FoodLocation":"https://www.google.com/maps/search/shawaram+near+me","FoodYoutube":"https://youtu.be/UJi0fS1SxHg","FoodIcon":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Food/burrito.png"},
+    {"FoodName":"Fried Chicken","FoodCalories":"320 (130g) no bone","FoodPrice":"$2-3.05 tender","FoodImage":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Food/chicken.jpg","FoodLocation":"https://www.google.com/maps/search/fried+chicken+near+me","FoodYoutube":"https://youtu.be/pSPWszeTxRc","FoodIcon":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Food/chicken.png"},
+    {"FoodName":"Cheeseburger","FoodCalories":"303 (100g)","FoodPrice":"$2.65-2.58","FoodImage":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Food/burger.jpg","FoodLocation":"https://www.google.com/maps/search/cheeseburger+near+me","FoodYoutube":"https://youtu.be/L66PzgUzIl0","FoodIcon":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Food/burger.png"},
     
     
   ],

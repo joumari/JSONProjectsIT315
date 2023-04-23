@@ -1,11 +1,11 @@
 {
   "Sweets":
   [
-    {"SweetName":"Cookies","SweetCalories":"142(28.4g)","SweetPrice":"$2.50-5.00","SweetImage":"URL From github","SweetLocation":"https://www.google.com/maps/search/cookies+near+me","SweetYoutube":"https://youtu.be/vU2uuVDADNE","SweetIcon":"URL github"},
-    {"SweetName":"Cupcake","SweetCalories":"Low fat 131 (43 g)","SweetPrice":"$2.95-3.00","SweetImage":"URL From github","SweetLocation":"https://www.google.com/maps/search/cupcake+near+me","SweetYoutube":"https://youtu.be/xrFZd54VFNE","SweetIcon":"URL github"},
-    {"SweetName":"Baklava","SweetCalories":"306 (76g)","SweetPrice":"$1-2.50 per piece","SweetImage":"URL From github","SweetLocation":"https://www.google.com/maps/search/baklava+near+me","SweetYoutube":"https://youtu.be/8IIjVmMf5Nw","SweetIcon":"URL github"},
-    {"SweetName":"No Dessert","SweetCalories":"0","SweetPrice":"$0","SweetImage":"URL From github","SweetLocation":"https://www.google.com/maps/place/Current+location","SweetYoutube":"https://www.youtube.com/watch?v=cPyFIvCvh8U","SweetIcon":"URL github"},
-    {"SweetName":"Tea","SweetCalories":"2 ( 237 g - no sugar)","SweetPrice":"$2.50-2.96","SweetImage":"URL From github","SweetLocation":"https://www.google.com/maps/search/tea+near+me","SweetYoutube":"https://youtu.be/fU7gUSuhIPA","SweetIcon":"URL github"},
+    {"SweetName":"Cookies","SweetCalories":"142(28.4g)","SweetPrice":"$2.50-5.00","SweetImage":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Sweets/cookies.jpg","SweetLocation":"https://www.google.com/maps/search/cookies+near+me","SweetYoutube":"https://youtu.be/vU2uuVDADNE","SweetIcon":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Sweets/cookie.png"},
+    {"SweetName":"Cupcake","SweetCalories":"Low fat 131 (43 g)","SweetPrice":"$2.95-3.00","SweetImage":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Sweets/cupcake.jpg","SweetLocation":"https://www.google.com/maps/search/cupcake+near+me","SweetYoutube":"https://youtu.be/xrFZd54VFNE","SweetIcon":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Sweets/cupcake.png"},
+    {"SweetName":"Baklava","SweetCalories":"306 (76g)","SweetPrice":"$1-2.50 per piece","SweetImage":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Sweets/baglava.jpg","SweetLocation":"https://www.google.com/maps/search/baklava+near+me","SweetYoutube":"https://youtu.be/8IIjVmMf5Nw","SweetIcon":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Sweets/baklava.png"},
+    {"SweetName":"No Dessert","SweetCalories":"0","SweetPrice":"$0","SweetImage":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Sweets/noDessert.jpg","SweetLocation":"https://www.google.com/maps/place/Current+location","SweetYoutube":"https://www.youtube.com/watch?v=cPyFIvCvh8U","SweetIcon":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Sweets/noDessert.png"},
+    {"SweetName":"Tea","SweetCalories":"2 ( 237 g - no sugar)","SweetPrice":"$2.50-2.96","SweetImage":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Sweets/tea.jpg","SweetLocation":"https://www.google.com/maps/search/tea+near+me","SweetYoutube":"https://youtu.be/fU7gUSuhIPA","SweetIcon":"https://raw.githubusercontent.com/joumari/JSONProjectsIT315/master/Sweets/tea.png"},
     
   ],
   "Status":"OK"
